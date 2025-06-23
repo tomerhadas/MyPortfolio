@@ -1,25 +1,23 @@
-import Header from './components/Header';
-import Home from './components/Home';
-import About from './components/About';
-import Contact from './components/Contact';
-import Projects from './components/projects';
-import './index.css'; // Assuming you have some global styles
-import Hero from './components/Hero';
-import Skills from './components/Skills';
+import Header from './components/header/Header.jsx';
+import Home from './components/home/Home.jsx';
+import About from './components/About/About.jsx';
+import Skills from './components/skills/Skills.jsx';
+import Portfolio from './components/portfolio/Portfolio.jsx';
+import Contact from './components/contact/Contact.jsx';
+
+import './index.css';
 
 function App() {
   return (
     <div>
       <Header />
-      <Hero />
+      <Home />
       <About />
       <Skills />
-      <Projects />
+      <Portfolio />
       <Contact />
     </div>
   );
 }
 
 export default App;
-
-
