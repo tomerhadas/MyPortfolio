@@ -18,7 +18,7 @@ function About() {
         <img className="about-photo" src="myphoto.jpg" alt="Tomer" />
         <div>
           <p>
-            I'm a third-year Computer Science student at the Academic College of Ramat Gan (GPA: 90),
+            I'm a  Computer Science Graduated at the Academic College of Ramat Gan (GPA: 88),
             with strong foundations in data structures, OOP, algorithms, and machine learning.
           </p>
           <p>
@@ -27,7 +27,7 @@ function About() {
           </p>
           <p>
             My development stack includes both frontend and backend technologies:
-            React, JavaScript, .NET Core, Angular, SQL, and Python. I enjoy building clean, scalable, and responsive applications.
+            React, JavaScript, .NET Core, Angular, SQL, C#, and Python. I enjoy building clean, scalable, and responsive applications.
           </p>
           <p>
             I'm passionate about software architecture, cloud technologies like AWS, and creating seamless user experiences.
